@@ -1,3 +1,27 @@
+# Spotify Clone React JS 🔴
+
+This is a Spotify clone built using React JS in the front-end, Firebase in the back-end (deployment) and the actual Spotify API to authenticate and fetch user data.
+
+### Technologies used
+
+-   ✅ REACT JS for front-end
+-   ✅ Redux
+-   ✅ REACT Router 🧭
+-   ✅ Spotify API for User authentication 🔑 and Database
+-   ✅ Firebase Hosting to deploy 🚀
+
+### 👇 What are we going to do? 👇
+
+-   [x] ⌨️ Set up React app using the create-react-app command
+-   [x] 🚀 Set up Firebase
+-   [x] 🦶 User authentication
+-   [x] 🔄 Spotify API
+-   [x] 🧭 Redux
+-   [x] 🏗 Responsive Design
+-   [x] 🏗 Material Design (icons)
+-   [x] 🏗 Modern Tech
+-   [x] 🏗 React Hooks Functional (Hooks, State)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
